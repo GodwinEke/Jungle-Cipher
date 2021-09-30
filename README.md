@@ -16,5 +16,5 @@
 # What would I do to improve the code in the future?
 - I would love to make the code translate more languages to Jungle language and can be used widely for everyone in all parts of the world.
 
-#Did you find any problems with the code?
+# Did you find any problems with the code?
 - I did not; however, if a user sees a bug or an area of improvement, feel free to contact me via email ekegodwinc@gmail.com
