@@ -34,16 +34,3 @@ def translate(text):
     return ''.join(output_list)
 
 
-#Example
-a='Hi!'
-print(translate(a))
-
-a='I love playing with my dog'
-print(translate(a))
-
-a='The excitement that flushed through my veins when I was told I will be attending a foreign university was out of bounds. Every night, all I could do was watch the stars by my window, ponder on how fast I could reach my university in a matter of minutes. Thus, it was not what I had dreamed. All the conflicts that I had to face during the journey were enough to make the journey tiring.'
-print('\n'+translate(a))
-
-a='The three-star hotel had the best life can offer. It had nice delicacies in the food menu, nice bathtub, a large bed that could fit four of me, a chandelier that glittered, Full-length mirror with lighting, and free Wi-Fi.  It was a memorable twenty-four hours.'
-print('\n'+translate(a))
-
