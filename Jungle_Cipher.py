@@ -57,8 +57,8 @@ class translate():
 #a=translate('I would like to get the latest Iphone pro 13!!').encrypt()
 #print(a)
 
-#a=translate('\nTaha2 2xaca3ta2ma2nata taha1ta fala5saha2da tahara45gaha maya va23nasa waha2na 3 wa1sa ta4lada 3 wa3lala ba2 1tata2nada3naga 1 fa4ra23gana 5na3va2rasa3taya wa1sa 45ta 4fa ba45nadasa. 2va2raya na3gahata, 1lala 3 ca45lada da4 wa1sa wa1tacaha taha2 sata1rasa baya maya wa3nada4wa, pa4nada2ra 4na ha4wa fa1sata 3 ca45lada ra21caha maya 5na3va2rasa3taya 3na 1 ma1tata2ra 4fa ma3na5ta2sa. 1la1sa, 3ta  wa1sa na4ta waha1ta 3 ha1da dara21ma2da. 1lala taha2 ca4nafala3catasa taha1ta 3 ha1da ta4 fa1ca2 da5ra3naga taha2 ja45rana2ya wa2ra2 2na45gaha ta4 ma1ka2 taha2 ja45rana2ya ta3ra3naga. Taha2 tahara22-sata1ra ha4ta2la ha1da taha2 ba2sata la3fa2 ca1na 4fafa2ra. 3ta ha1da na3ca2 da2la3ca1ca32sa 3na taha2 fa44da ma2na5, na3ca2 ba1tahata5ba, 1 la1raga2 ba2da taha1ta ca45lada fa3ta fa45ra 4fa ma2, 1 caha1nada2la32ra taha1ta gala3tata2ra2da, Fa5lala-la2nagataha ma3rara4ra wa3taha la3gahata3naga, 1nada fara22 Wa3-Fa3.  3ta wa1sa 1 ma2ma4ra1bala2 tawa2nataya-fa45ra ha45rasa.')
-#print(a.decrypt().lower())
+#a=translate('\nTaha2 2xaca3ta2ma2nata taha1ta fala5saha2da tahara45gaha maya va23nasa waha2na 3 wa1sa ta4lada 3 wa3lala ba2 1tata2nada3naga 1 fa4ra23gana 5na3va2rasa3taya wa1sa 45ta 4fa ba45nadasa. 2va2raya na3gahata, 1lala 3 ca45lada da4 wa1sa wa1tacaha taha2 sata1rasa baya maya wa3nada4wa, pa4nada2ra 4na ha4wa fa1sata 3 ca45lada ra21caha maya 5na3va2rasa3taya 3na 1 ma1tata2ra 4fa ma3na5ta2sa. 1la1sa, 3ta  wa1sa na4ta waha1ta 3 ha1da dara21ma2da. 1lala taha2 ca4nafala3catasa taha1ta 3 ha1da ta4 fa1ca2 da5ra3naga taha2 ja45rana2ya wa2ra2 2na45gaha ta4 ma1ka2 taha2 ja45rana2ya ta3ra3naga. Taha2 tahara22-sata1ra ha4ta2la ha1da taha2 ba2sata la3fa2 ca1na 4fafa2ra. 3ta ha1da na3ca2 da2la3ca1ca32sa 3na taha2 fa44da ma2na5, na3ca2 ba1tahata5ba, 1 la1raga2 ba2da taha1ta ca45lada fa3ta fa45ra 4fa ma2, 1 caha1nada2la32ra taha1ta gala3tata2ra2da, Fa5lala-la2nagataha ma3rara4ra wa3taha la3gahata3naga, 1nada fara22 Wa3-Fa3.  3ta wa1sa 1 ma2ma4ra1bala2 tawa2nataya-fa45ra ha45rasa.').decrypt()
+#print(a.lower())
 
 
 
