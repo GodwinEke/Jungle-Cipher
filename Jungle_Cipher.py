@@ -52,24 +52,12 @@ class translate():
             else:
                 output.append(self.text[i])
         return ''.join(reversed(output))
-
-
-
+    
 #Example
-a=translate('Hi!')
-print(a.encrypt())
+#a=translate('I would like to get the latest Iphone pro 13!!').encrypt()
+#print(a)
 
-a=translate('I love playing with my dog')
-print(a.encrypt())
 
-a=translate('The excitement that flushed through my veins when I was told I will be attending a foreign university was out of bounds. Every night, all I could do was watch the stars by my window, ponder on how fast I could reach my university in a matter of minutes. Thus, it was not what I had dreamed. All the conflicts that I had to face during the journey were enough to make the journey tiring.')
-print(a.encrypt())
-
-a=translate('The three-star hotel had the best life can offer. It had nice delicacies in the food menu, nice bathtub, a large bed that could fit four of me, a chandelier that glittered, Full-length mirror with lighting, and free Wi-Fi.  It was a memorable twenty-four hours.')
-print(a.encrypt())
-
-a=translate('Ha1Ta 4fa 2ra3ka')
-print(a.decrypt())
 
 
 
