@@ -1,4 +1,4 @@
-# Jungle-Language-Translator
+# Jungle-Cipher
 
 ## Description
 
